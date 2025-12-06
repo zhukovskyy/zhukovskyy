@@ -51,7 +51,7 @@ I build large-scale monitoring platforms, intelligent assistants, and research-d
 **Professional Experience:**
 - 15+ years in software engineering, IoT communication, and distributed systems
 - Previously worked at BLStream (international company) on CDMA technologies and mobile device programming
-- Lead and co-author of projects in water tank monitoring, smart agriculture, AI assistants for universities, and eco-labeling on blockchain
+- Lead and co-author of projects in smart agriculture, water tank monitoring, AI assistants for universities, and eco-labeling on blockchain
 - Comfortable bridging research, prototype, and production: from hardware and telemetry to cloud APIs and user-facing apps
 
 ### 🛠 Tech Stack (selection)
@@ -108,7 +108,7 @@ Lightweight eco-labeling system for agricultural products based on ISO 14021/140
 **Професійний досвід:**
 - Понад 15 років у розробці програмних систем, IoT-комунікаціях та розподілених платформах
 - Працював у міжнародній компанії BLStream над CDMA-технологіями та програмуванням мобільних пристроїв
-- Автор і розробник систем для моніторингу водних резервуарів, смарт-агро, AI-чатботів для університетів та екологічного маркування на блокчейні
+- Автор і розробник систем для смарт-агро, моніторингу водних резервуарів, AI-чатботів для університетів та екологічного маркування з використанням блокчейн-технологій
 - Поєдную дослідження, прототипування та промислові рішення: від апаратної частини до хмарних API та користувацьких інтерфейсів
 
 ### 🛠 Технологічний стек (основне)
