@@ -9,7 +9,13 @@
 
 # Viktor Zhukovskyy
 
-PhD · Software Engineer · Tech Lead · IoT & AI Systems
+PhD · Associate Professor · Software Engineer · Tech Lead · IoT & AI Systems
+
+[![Email](https://img.shields.io/badge/Email-v.v.zhukovskyy%40nuwm.edu.ua-red?style=flat-square&logo=gmail)](mailto:v.v.zhukovskyy@nuwm.edu.ua)
+[![Facebook](https://img.shields.io/badge/Facebook-viktor.zhukovskyy-1877F2?style=flat-square&logo=facebook)](https://www.facebook.com/viktor.zhukovskyy)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Viktor_Zhukovskyy-00CCBB?style=flat-square&logo=researchgate)](https://www.researchgate.net/profile/Viktor_Zhukovskyy3)
+[![Scopus](https://img.shields.io/badge/Scopus-57197722354-orange?style=flat-square)](https://www.scopus.com/authid/detail.uri?authorId=57197722354)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-n11__P--MAAAAJ-4285F4?style=flat-square&logo=google-scholar)](https://scholar.google.com.ua/citations?user=n11_P-MAAAAJ)
 
 <!-- Language Tabs -->
 <a href="#english">
@@ -27,12 +33,26 @@ PhD · Software Engineer · Tech Lead · IoT & AI Systems
 
 ### 👋 Bio
 
-PhD Software Engineer & Tech Lead working at the intersection of IoT, AI systems, and cloud architectures.  
+PhD, Associate Professor at the Department of Applied Mathematics, [National University of Water and Environmental Engineering (NUWM)](https://nuwm.edu.ua/), Ukraine.  
+Software Engineer & Tech Lead working at the intersection of IoT, AI systems, and cloud architectures.  
 I build large-scale monitoring platforms, intelligent assistants, and research-driven solutions used in academia and industry.
 
-- 15+ years of experience in software engineering, IoT communication, and distributed systems.
-- Lead and co-author of projects in water tank monitoring, smart agriculture, AI assistants for universities, and eco-labeling on blockchain.
-- Comfortable bridging research, prototype, and production: from hardware and telemetry to cloud APIs and user-facing apps.
+**Academic Background:**
+- PhD in Mathematical Modelling and Computational Methods (2018) – thesis on mass transfer modeling in porous media
+- Master's in Computer Engineering, System Programming (Lviv Polytechnic National University, 2007)
+- Winner of the 2018 Rivne Regional State Administration Prize for Young Scientists
+
+**Teaching & Research:**
+- Associate Professor teaching courses in software design, parallel computing, AI systems, computer networks, and modern operating systems
+- Supervise diploma projects, bachelor's and master's theses
+- Coach teams for competitive programming (ACM ICPC semifinals, KPI-Open competitions)
+- Mentor at Rivne Minor Academy of Sciences – students won multiple awards in national research competitions
+
+**Professional Experience:**
+- 15+ years in software engineering, IoT communication, and distributed systems
+- Previously worked at BLStream (international company) on CDMA technologies and mobile device programming
+- Lead and co-author of projects in water tank monitoring, smart agriculture, AI assistants for universities, and eco-labeling on blockchain
+- Comfortable bridging research, prototype, and production: from hardware and telemetry to cloud APIs and user-facing apps
 
 ### 🛠 Tech Stack (selection)
 
@@ -70,12 +90,26 @@ Lightweight eco-labeling system for agricultural products based on ISO 14021/140
 
 ### 👋 Біо
 
-PhD, інженер-програміст та технічний лід, що працює на перетині IoT-систем, штучного інтелекту та хмарних архітектур.  
+Кандидат технічних наук, доцент кафедри прикладної математики [Національного університету водного господарства та природокористування (НУВГП)](https://nuwm.edu.ua/).  
+Інженер-програміст та технічний лід, що працює на перетині IoT-систем, штучного інтелекту та хмарних архітектур.  
 Створюю масштабовані платформи моніторингу, інтелектуальні асистенти та дослідницькі рішення для освіти й індустрії.
 
-- Понад 15 років досвіду у розробці програмних систем, IoT-комунікаціях та розподілених обчислювальних платформах.
-- Автор і розробник систем для моніторингу водних резервуарів, смарт-агро, AI-чатботів для університетів та екологічного маркування на блокчейні.
-- Поєдную апаратну частину, телеметрію, хмарні сервіси та зручні інтерфейси в єдині завершені рішення.
+**Освіта та наукова діяльність:**
+- Кандидат технічних наук за спеціальністю «Математичне моделювання та обчислювальні методи» (захист 2018 р.) – дисертація з моделювання масопереносу в пористих середовищах
+- Магістр комп'ютерної інженерії, системне програмування (Національний університет «Львівська політехніка», 2007)
+- Лауреат Премії Рівненської облдержадміністрації для молодих вчених (2018)
+
+**Викладання та наставництво:**
+- Доцент, викладаю дисципліни: проектування програмних систем, паралельні обчислення, системи штучного інтелекту, комп'ютерні мережі, сучасні ОС
+- Керую дипломними, курсовими та бакалаврськими роботами
+- Тренер команд зі спортивного програмування (півфінали ACM ICPC, призові місця на KPI-Open, Всеукраїнських олімпіадах)
+- Керівник гуртка Рівненської МАН – учні неодноразово ставали призерами фінальних етапів конкурсів МАН України
+
+**Професійний досвід:**
+- Понад 15 років у розробці програмних систем, IoT-комунікаціях та розподілених платформах
+- Працював у міжнародній компанії BLStream над CDMA-технологіями та програмуванням мобільних пристроїв
+- Автор і розробник систем для моніторингу водних резервуарів, смарт-агро, AI-чатботів для університетів та екологічного маркування на блокчейні
+- Поєдную дослідження, прототипування та промислові рішення: від апаратної частини до хмарних API та користувацьких інтерфейсів
 
 ### 🛠 Технологічний стек (основне)
 
