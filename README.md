@@ -113,7 +113,7 @@ I build large-scale monitoring platforms, intelligent assistants, and research-d
 
 **Scientific & Academic Recognition:**
 - **2018** – Laureate of Rivne Regional State Administration Prize for Young Scientists (for fundamental and applied research in mathematical modeling)
-- **2020s** – Multiple Letters of Appreciation from Regional Education Department and National Center "Minor Academy of Sciences of Ukraine" for systematic work with gifted students
+- **2020s** – Multiple Letters of Appreciation from Regional Education Department and National Center "Little Academy of Sciences of Ukraine" for systematic work with gifted students
 
 **Grants & Educational Initiatives:**
 - **2019** – Academic Mobility Grant from House of Europe
