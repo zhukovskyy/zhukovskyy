@@ -63,7 +63,69 @@ I build large-scale monitoring platforms, intelligent assistants, and research-d
 - **IoT & Communication:** MQTT, HTTP(S), SMS gateways (Twilio, Telnyx, KORE), satellite (Iridium), custom TCP/UDP servers
 - **AI & Data:** OpenAI API, RAG, LangChain/RAGFlow, basic ML pipelines
 
-### 🚀 Selected Projects
+### � Research Projects & Academic Activities
+
+**Principal Investigator:**
+- **2020-2022** – Young Scientists Research Project "Information-Analytical System for Organic Agriculture and Soil Ecological Sustainability" (State Registration: 0120U000235)
+
+**Research Participant (State-Funded Projects):**
+- **2020-2022** – "Mathematical and Computer Modeling of Man-Made Controlled Processes in Porous Media with Barriers under Identification Conditions" (State Registration: 0120U102055)
+- **2019-2021** – "Investigation of Suffusion, Karst Formation, Corrosion and Leaching in Porous Media" (State Registration: 0119U000081)
+
+**Contract Research:**
+- **2022-2023** – "Computer Modeling of Agrochemical Parameters Changes in Upper Soil Layer for Crop Rotation Combinations Using E-Calculator" (Client: Bio-Trio Farm, Contract NUWM №4-812)
+
+**International Research Projects (COST Action):**
+- **2019-2024** – [CA18234 CompNanoEnergy](https://www.cost.eu/actions/CA18234/) – Computational materials sciences for efficient water splitting with nanocrystals from abundant elements
+- **2016-2020** – [CA15118 FoodMC](https://www.cost.eu/actions/CA15118/) – Mathematical and Computer Science Methods for Food Science and Industry
+
+**PhD Dissertation Review:**
+- **2024** – Official reviewer for Krasiuk B. V. dissertation (Taras Shevchenko National University of Kyiv, Applied Mathematics)
+- **2023** – Official reviewer for Vlasov V. S. dissertation (Dnipro University of Technology, Automation and Computer-Integrated Technologies)
+
+**Conference Organization:**
+- **2022** – Program Committee member, [IEEE 16th International Scientific Conference on Informatics](https://informatics.kpi.fei.tuke.sk/2022/committees.html), Poprad, Slovakia
+- **2020, 2021** – Organizing Committee member, International Conferences "Modeling, Control and Information Technologies" (MCIT), Rivne, NUWM
+
+### 🎓 Academic Positions & Expertise
+
+**Educational Program Leadership:**
+- Program Guarantor for ["Internet of Things"](https://nuwm.edu.ua/) educational program, specialty 121 "Software Engineering"
+
+**Editorial Board Membership:**
+- **2020-2024** – Editorial Board Member, [Bulletin of NUWM, Technical Sciences Series](https://ep3.nuwm.edu.ua/) (professional journal, category B)
+
+**Expert Activities:**
+- **2022** – Expert of the Ministry of Education and Science of Ukraine for evaluation of research projects and R&D in "Environmental Protection" (Order of MES №1111, December 12, 2022)
+
+**Scientific Student Circle Supervision:**
+- **2021-2024** – Head of scientific student circle "Design and Development of Cross-Platform Information Systems" at the Department of Computer Science and Applied Mathematics
+
+**PhD Student Supervision:**
+- **2021-2025** – Supervising 3 PhD students at the Department of Computer Science and Applied Mathematics:
+
+### 🏆 Awards & Achievements
+
+**Hackathons & IT Competitions:**
+- **2018** – Winner, All-Ukrainian Hackathon of Agricultural Innovations (developed innovative AgriTech solution)
+- **2017** – Winner, Civic Tech Camp 2-day Hackathon (e-democracy and civic engagement platform)
+- **2016** – Winner, National IT Projects Competition on E-Democracy "EGAP CHALLENGE 2016"
+
+**Scientific & Academic Recognition:**
+- **2018** – Laureate of Rivne Regional State Administration Prize for Young Scientists (for fundamental and applied research in mathematical modeling)
+- **2020s** – Multiple Letters of Appreciation from Regional Education Department and National Center "Minor Academy of Sciences of Ukraine" for systematic work with gifted students
+
+**Grants & Educational Initiatives:**
+- **2019** – Academic Mobility Grant from House of Europe
+- **2019** – Organized Educational Hub based on "CS50 2019 Fundamentals of Programming" course from Prometheus company
+
+**Youth Scientific Circle Leadership (Minor Academy of Sciences):**
+- **2015-present** – Head of "Multimedia Systems, Educational and Game Programs" circle at Rivne Minor Academy of Sciences
+- Students consistently win regional and national competitions:
+  - Annual winners of Stage III All-Ukrainian Research Competition of Minor Academy of Sciences
+  - Participants and award winners at international forums and algorithmic programming olympiads
+
+### � Selected Projects
 
 #### 🛰 TankToad – IoT Water Tank Monitoring
 IoT platform for monitoring water tanks with satellite (Iridium) and GSM communication, serving ~1000 devices.  
@@ -111,7 +173,74 @@ Lightweight eco-labeling system for agricultural products based on ISO 14021/140
 - Автор і розробник систем для смарт-агро, моніторингу водних резервуарів, AI-чатботів для університетів та екологічного маркування з використанням блокчейн-технологій
 - Поєдную дослідження, прототипування та промислові рішення: від апаратної частини до хмарних API та користувацьких інтерфейсів
 
-### 🛠 Технологічний стек (основне)
+### 📊 [Публікації](./Publications.md)
+
+Повний список моїх наукових публікацій, включаючи статті, тези конференцій та матеріали воркшопів з 2012 року по теперішній час.
+
+### � Наукові проєкти та дослідження
+
+**Керівництво науковими проєктами:**
+- **2020-2022** – Науковий керівник науково-технічної роботи молодих вчених "Інформаційно-аналітична система органічного землеробства та забезпечення екологічної стійкості ґрунтів" (№ держреєстрації: 0120U000235)
+
+**Участь у державних науково-дослідних роботах:**
+- **2020-2022** – "Математичне та комп'ютерне моделювання техногенних керованих процесів в пористих середовищах з бар'єрами за умов ідентифікації" (НДР: 0120U102055)
+- **2019-2021** – "Дослідження суфозії, карстоутворення, корозії та вилуговування в пористих середовищах" (НДР: 0119U000081)
+
+**Госпдоговірні роботи:**
+- **2022-2023** – "Комп'ютерне моделювання зміни агрохімічних показників у верхньому шарі ґрунтового середовища при комбінації варіантів сівозміни з використанням е-калькулятора" (замовник: Ф/г Біо-Тріо, договір НУВГП №4-812)
+
+**Міжнародні наукові проєкти (COST Action):**
+- **2019-2024** – [CA18234 CompNanoEnergy](https://www.cost.eu/actions/CA18234/) – Computational materials sciences for efficient water splitting with nanocrystals from abundant elements
+- **2016-2020** – [CA15118 FoodMC](https://www.cost.eu/actions/CA15118/) – Mathematical and Computer Science Methods for Food Science and Industry
+
+**Опонування дисертацій:**
+- **2024** – Офіційний опонент дисертації Красюка Б. В. (КНУ ім. Т. Шевченка, спеціальність 113 "Прикладна математика")
+- **2023** – Офіційний опонент дисертації Власова В. С. (НТУ "Дніпровська політехніка", спеціальність 151 "Автоматизація та комп'ютерно-інтегровані технології")
+
+**Участь в організації наукових заходів:**
+- **2022** – Член програмного комітету [IEEE 16th International Scientific Conference on Informatics](https://informatics.kpi.fei.tuke.sk/2022/committees.html), Poprad, Slovakia
+- **2020, 2021** – Член організаційного комітету міжнародних конференцій "Моделювання, керування та інформаційні технології" (МСІТ), Рівне, НУВГП
+
+### 🎓 Академічні позиції та експертиза
+
+**Гарант освітньої програми:**
+- Гарант освітньої програми ["Інтернет речей"](https://nuwm.edu.ua/) спеціальності 121 "Інженерія програмного забезпечення"
+
+**Редакційна діяльність:**
+- **2020-2024** – Член редакційної колегії [Вісника НУВГП, серія "Технічні науки"](https://ep3.nuwm.edu.ua/) (фахове видання, категорія Б)
+
+**Експертна діяльність:**
+- **2022** – Експерт МОН України з експертизи проєктів наукових досліджень і науково-технічних розробок за тематичним напрямком "Охорона навколишнього середовища" (Наказ МОН №1111 від 12.12.2022)
+
+**Керівництво науковим гуртком:**
+- **2021-2024** – Керівник студентського наукового гуртка "Проектування та розробка кросплатформенних інформаційних систем" кафедри комп'ютерних наук та прикладної математики
+
+**Керівництво аспірантами:**
+- **2021-2025** – Науковий керівник аспірантів кафедри комп'ютерних наук та прикладної математики:
+
+### 🏆 Нагороди та досягнення
+
+**Хакатони та ІТ-конкурси:**
+- **2018** – Переможець Всеукраїнського Хакатону Аграрних Інновацій (розробка інноваційного AgriTech-рішення)
+- **2017** – Переможець Дводенного кемпу Civic Tech Camp (платформа електронної демократії та громадської участі)
+- **2016** – Переможець Національного конкурсу ІТ-проектів з е-демократії "EGAP CHALLENGE 2016"
+
+**Наукове та академічне визнання:**
+- **2018** – Лауреат Премії Рівненської облдержадміністрації для молодих вчених (за фундаментальні та прикладні дослідження в математичному моделюванні)
+- **2020-ті** – Численні Грамоти Управління освіти і науки облдержадміністрації та Національного центру "Мала академія наук України" за системну роботу з обдарованою молоддю
+
+**Гранти та стипендії:**
+- **2019** – Грант академічної мобільності від House of Europe
+- **2019** – Організація освітнього хабу на базі курсу "Основи програмування CS50 2019" від компанії Prometheus
+
+**Керівництво гуртком МАН:**
+- **2015-дотепер** – Керівник гуртка "Мультимедійні системи, навчальні та ігрові програми" Рівненської Малої академії наук учнівської молоді
+- Вихованці систематично перемагають на обласних та всеукраїнських конкурсах:
+  - Щорічні переможці ІІІ етапу Всеукраїнського конкурсу-захисту науково-дослідницьких робіт МАН України
+  - Учасники та призери міжнародних форумів та олімпіад з алгоритмічного програмування
+
+
+### � Технологічний стек (основне)
 
 - **Бекенд:** C#, ASP.NET Core, Web API, Entity Framework Core, Python
 - **Фронтенд / Мобільні:** Flutter, Angular, HTML/CSS/JS
